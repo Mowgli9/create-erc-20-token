@@ -1,6 +1,6 @@
 # how I can create a token using this script
     - it's simple all what you need to do is go to scripts 
-        -> main.py and change some variable like.
+        -> main.py and change some variable like:
 
         - hom_much_token_you_want_to_creat = "the total supply of the token"
         - token_name = "What you wanna called this token"
