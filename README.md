@@ -1,3 +1,7 @@
+🙃🙃🙃🙃 Disclamer : I don't suggest you to use this smart contract, It was only for me to learn more about Solidity ` Who the f* wrote this smart contract 😆😆😆😆 `
+
+
+
 # how I can create a token using this script
     - it's simple all what you need to do is go to scripts 
         -> main.py and change some variable like:
